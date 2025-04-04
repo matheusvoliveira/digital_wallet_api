@@ -1,4 +1,4 @@
-# Digital Wallet API 😑
+# Digital Wallet API 
 
 Este é um projeto de teste para uma API de carteira digital desenvolvida com Django e Django Rest Framework. O objetivo é criar e gerenciar usuários com saldo, além de permitir transferências entre eles.
 
