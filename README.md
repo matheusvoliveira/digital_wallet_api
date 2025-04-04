@@ -24,7 +24,7 @@ digital_wallet_api/
 │   ├── requirements.txt
 │   └── ...
 │
-├── client/        # Frontend com React
+├── cliente/        # Frontend com React
 │   ├── package.json
 │   └── ...
 ```
@@ -93,7 +93,7 @@ python manage.py runserver
 1. **Acesse a pasta do frontend:**
 
 ```bash
-cd ../client
+cd ../cliente
 ```
 
 2. **Instale as dependências:**
